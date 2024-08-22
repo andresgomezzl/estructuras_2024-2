@@ -12,7 +12,7 @@ int main()
 {
     std::cout<<"Hello World";
 
-    std::cout<<"Intento de Commit";
+    std::cout<<"Hola Mundo";
 
     return 0;
 }
